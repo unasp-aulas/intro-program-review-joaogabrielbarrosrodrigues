@@ -6,7 +6,7 @@ def main(cargo,salario):
     elif cargo == "senior":
         return salario * 1.34
     else:
-        return "-1"
+        return -1
 
 
         
